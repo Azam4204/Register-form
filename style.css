@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: rgb(179, 192, 196);
+    }
+body{
+    background-color: cadetblue;
+}
+
+input {
+    border: 0px;
+    background-color: transparent;
+    border-bottom: 2px solid white;
+    height: 7vh;
+    padding: 1em;
+}
